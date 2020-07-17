@@ -6,3 +6,5 @@ COPY . /var/www/html/
 
 #RUN cp -r /app/moe-php-mysql-demo/www/* /var/www/html/.
 
+EXPOSE 1999
+
